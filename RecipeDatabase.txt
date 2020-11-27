@@ -1,0 +1,5 @@
+Meat	All flavors in one plate!	4000	1	3	1000	0	2	1	2	2	2
+Fried chicken	Best chicken food!	4001	1	0	1000	0	1
+Trotter	Korean pork food!	4002	1	1	1000	1	1
+Chop steak	Chopped beef!	4003	1	2	1000	2	1
+Korean steamed chicken	Korean chicken food	4004	1	0	1000	0	1

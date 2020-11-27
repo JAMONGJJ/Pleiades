@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 28de70df887128c469d15147138620fb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Bone009
+    100018: Bone010
+    100020: Bone011
+    100022: Bone012
+    100024: Bone013
+    100026: Bone014
+    100028: Bone015
+    100030: Bone015(mirrored)
+    100032: Bone016
+    100034: Bone016(mirrored)
+    100036: Bone017
+    100038: Bone017(mirrored)
+    100040: Bone018
+    100042: Bone018(mirrored)
+    100044: Bone019
+    100046: Bone019(mirrored)
+    100048: Bone020
+    100050: Bone021
+    100052: Bone022
+    100054: Bone023
+    100056: Bone024
+    100058: Bone025
+    100060: Bone026
+    100062: Bone027
+    100064: Bone028
+    100066: Bone029
+    100068: Bone030
+    100070: Bone031
+    100072: Bone032
+    100074: Bone033
+    100076: Bone034
+    100078: Bone035
+    100080: Bone036
+    100082: Bone037
+    100084: Bone038
+    100086: Bone039
+    100088: connectBone001
+    100090: connectBone001(mirrored)
+    100092: connectBone003
+    100094: connectBone003(mirrored)
+    100096: connectBone004
+    100098: connectBone005
+    100100: connectBone006
+    100102: connectBone007
+    100104: connectBone008
+    100106: connectBone009
+    100108: connectBone010
+    100110: connectBone011
+    100112: connectBone012
+    100114: connectBone013
+    100116: //RootNode
+    100118: Sphere001
+    100120: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100122: "\xD7\xFE\xD7\xFC"
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Bone009
+    400018: Bone010
+    400020: Bone011
+    400022: Bone012
+    400024: Bone013
+    400026: Bone014
+    400028: Bone015
+    400030: Bone015(mirrored)
+    400032: Bone016
+    400034: Bone016(mirrored)
+    400036: Bone017
+    400038: Bone017(mirrored)
+    400040: Bone018
+    400042: Bone018(mirrored)
+    400044: Bone019
+    400046: Bone019(mirrored)
+    400048: Bone020
+    400050: Bone021
+    400052: Bone022
+    400054: Bone023
+    400056: Bone024
+    400058: Bone025
+    400060: Bone026
+    400062: Bone027
+    400064: Bone028
+    400066: Bone029
+    400068: Bone030
+    400070: Bone031
+    400072: Bone032
+    400074: Bone033
+    400076: Bone034
+    400078: Bone035
+    400080: Bone036
+    400082: Bone037
+    400084: Bone038
+    400086: Bone039
+    400088: connectBone001
+    400090: connectBone001(mirrored)
+    400092: connectBone003
+    400094: connectBone003(mirrored)
+    400096: connectBone004
+    400098: connectBone005
+    400100: connectBone006
+    400102: connectBone007
+    400104: connectBone008
+    400106: connectBone009
+    400108: connectBone010
+    400110: connectBone011
+    400112: connectBone012
+    400114: connectBone013
+    400116: //RootNode
+    400118: Sphere001
+    400120: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400122: "\xD7\xFE\xD7\xFC"
+    2100000: 'Material #2'
+    4300000: Sphere001
+    9500000: //RootNode
+    13700000: Sphere001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

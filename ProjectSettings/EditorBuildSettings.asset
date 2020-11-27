@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ForPicture.unity
+    guid: 31cbbdb89f43b2f4784879f4efbf1df8
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 0a94e71cd7e1ec546a915471d162572a
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 301bc8bcf714b4a48a8972c47afff742
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: e366ea2fb2980ea44886f12312bf1985
+  - enabled: 1
+    path: Assets/Scenes/Minigame1.unity
+    guid: b8f3b22604d45384c99dcc624b168296
+  - enabled: 1
+    path: Assets/Scenes/Minigame2.unity
+    guid: fe2d27111a5d9d24fa43c8f7588ec622
+  - enabled: 1
+    path: Assets/Scenes/Minigame3.unity
+    guid: 7b48132ae4b26d8458d53961ab7924e4
+  - enabled: 1
+    path: Assets/Scenes/Minigame4.unity
+    guid: 52302192ca5d77b4392f40a9c2d67e98
+  - enabled: 1
+    path: Assets/Scenes/Minigame5.unity
+    guid: def2900e217fbdf4787814e314b0f98c
+  - enabled: 1
+    path: Assets/Scenes/Restaurant_Close.unity
+    guid: 0e7947b12000f5743b04c17920244be5
+  - enabled: 1
+    path: Assets/Scenes/Restaurant_Open.unity
+    guid: d28f53a2a989e0b4dad19dc785dcab2a
+  m_configObjects: {}

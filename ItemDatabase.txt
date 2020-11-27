@@ -1,0 +1,5 @@
+Chicken	0	Winner winner chicken dinner!
+Egg	1	Perfect protein food!
+Pork	2	Everyday pork~
+Milk	3	My favorite drink!
+Beef	4	Welcome beef!
