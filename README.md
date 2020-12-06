@@ -54,10 +54,10 @@
 
 #
 #### 사용한 애셋들
-###### * LowPoly Domestic Animals - Radik_Bilalov (https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-domestic-animals-104514)
-###### * Meshint Free Shicken Mega Toon Series - Meshint Studio (https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chicken-mega-toon-series-151842)
-###### * LowPoly Restaurant - A3D (https://assetstore.unity.com/packages/3d/environments/low-poly-restaurant-147165)
-###### * LowPoly Ultimate Pack - polyperfect (https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733)
+> ###### LowPoly Domestic Animals - Radik_Bilalov (https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-domestic-animals-104514)
+> ###### Meshint Free Shicken Mega Toon Series - Meshint Studio (https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chicken-mega-toon-series-151842)
+> ###### LowPoly Restaurant - A3D (https://assetstore.unity.com/packages/3d/environments/low-poly-restaurant-147165)
+> ###### LowPoly Ultimate Pack - polyperfect (https://assetstore.unity.com/packages/3d/props/low-poly-ultimate-pack-54733)
 
 ------
 # < 동영상 링크 >
