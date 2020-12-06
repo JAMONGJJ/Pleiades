@@ -42,4 +42,18 @@
 
 #
 ![06_parkjunseo](https://user-images.githubusercontent.com/75113789/101164583-904ef080-3678-11eb-866c-cb89a1c44b36.PNG)
-> ###### Minigame1씬
+> ###### Minigame1
+![minigame2](https://user-images.githubusercontent.com/75113789/101278334-f9ac3c00-37fd-11eb-9043-bdfa6b282069.PNG)
+> ###### Minigame2
+![minigame3](https://user-images.githubusercontent.com/75113789/101278336-fadd6900-37fd-11eb-8cf8-23d77db0ccad.PNG)
+> ###### Minigame3
+![minigame4](https://user-images.githubusercontent.com/75113789/101278337-fb75ff80-37fd-11eb-9090-03eed7db4282.PNG)
+> ###### Minigame4
+![minigame5](https://user-images.githubusercontent.com/75113789/101278338-fc0e9600-37fd-11eb-9b2b-2134780ae99e.PNG)
+> ###### Minigame5
+
+
+
+
+
+
