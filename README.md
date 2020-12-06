@@ -20,10 +20,6 @@
 > ###### 별땅이가 식당을 운영하면서 요리를 하고, 손님들과 대화를 하며 메인 퀘스트를 완료해 스토리의 엔딩을 보면 게임의 진행이 끝남
 > ###### 서브 퀘스트와 미니게임을 통해 요리 재료를 얻거나, 메인 퀘스트를 깨는데 도움을 얻을 수 있음
 
-![01_parkjunseo](https://user-images.githubusercontent.com/75113789/101164574-8d540000-3678-11eb-9453-d4d1fe8fcaae.png)
-![02_parkjunseo](https://user-images.githubusercontent.com/75113789/101164577-8f1dc380-3678-11eb-808c-a94147d31d51.PNG)
-![03_parkjunseo](https://user-images.githubusercontent.com/75113789/101164579-8f1dc380-3678-11eb-84bd-ec63756524e0.PNG)
-![04_parkjunseo](https://user-images.githubusercontent.com/75113789/101164580-8fb65a00-3678-11eb-94d6-2fe6bb56bf10.PNG)
 ![05_parkjunseo](https://user-images.githubusercontent.com/75113789/101164581-904ef080-3678-11eb-84e9-f408485d2e42.PNG)
 ![06_parkjunseo](https://user-images.githubusercontent.com/75113789/101164583-904ef080-3678-11eb-866c-cb89a1c44b36.PNG)
 
@@ -31,4 +27,10 @@
 ## 작업 설명
 ![스크립트 구조](https://user-images.githubusercontent.com/75113789/101277327-fe212680-37f6-11eb-9452-2393ae793a78.PNG)
 > ###### 씬은 크게 3개(Village, Minigame, Restaurant)씬으로 구성이 되어있으며, Database와 Inventory는 씬을 바꿔도 스크립트가 붙은 오브젝트가 없어지지 않게 하기위해 싱글톤 패턴을 사용하여 항상 오브젝트가 남아있게끔 함
+
+
+![01_parkjunseo](https://user-images.githubusercontent.com/75113789/101164574-8d540000-3678-11eb-9453-d4d1fe8fcaae.png)
+![02_parkjunseo](https://user-images.githubusercontent.com/75113789/101164577-8f1dc380-3678-11eb-808c-a94147d31d51.PNG)
+![03_parkjunseo](https://user-images.githubusercontent.com/75113789/101164579-8f1dc380-3678-11eb-84bd-ec63756524e0.PNG)
+![04_parkjunseo](https://user-images.githubusercontent.com/75113789/101164580-8fb65a00-3678-11eb-94d6-2fe6bb56bf10.PNG)
 > ###### 
