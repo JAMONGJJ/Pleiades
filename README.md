@@ -2,7 +2,7 @@
 > #### 사용언어 및 툴 : C#, Unity
 > #### 작업 인원 : 1인 프로젝트
 
-
+--------
 ## 게임 기획
 ### 게임 기본 컨셉
 > ###### 대상 플레이어 : 어렵지 않고 간편한 게임을 좋아하고 소소한 힐링을 원하는 유저층
@@ -27,3 +27,5 @@
 ![05_parkjunseo](https://user-images.githubusercontent.com/75113789/101164581-904ef080-3678-11eb-84e9-f408485d2e42.PNG)
 ![06_parkjunseo](https://user-images.githubusercontent.com/75113789/101164583-904ef080-3678-11eb-866c-cb89a1c44b36.PNG)
 
+-------
+## 작업 설명
