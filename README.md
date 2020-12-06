@@ -29,3 +29,6 @@
 
 -------
 ## 작업 설명
+![스크립트 구조](https://user-images.githubusercontent.com/75113789/101277327-fe212680-37f6-11eb-9452-2393ae793a78.PNG)
+> ###### 씬은 크게 3개(Village, Minigame, Restaurant)씬으로 구성이 되어있으며, Database와 Inventory는 씬을 바꿔도 스크립트가 붙은 오브젝트가 없어지지 않게 하기위해 싱글톤 패턴을 사용하여 항상 오브젝트가 남아있게끔 함
+> ###### 
