@@ -36,6 +36,8 @@
 
 #
 ![05_parkjunseo](https://user-images.githubusercontent.com/75113789/101164581-904ef080-3678-11eb-84e9-f408485d2e42.PNG)
+![restaurant](https://user-images.githubusercontent.com/75113789/101278207-4fccaf80-37fd-11eb-8221-8c2fffeff745.PNG)
+![restaurant2](https://user-images.githubusercontent.com/75113789/101278208-50fddc80-37fd-11eb-953c-0e110e278487.PNG)
 > ###### Restaurant씬 화면들
 
 #
